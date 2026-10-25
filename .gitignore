@@ -1,0 +1,6 @@
+# hasil compile & data lokal
+*.class
+*.jar
+out/
+sumber.txt
+riwayat_penjualan.txt
